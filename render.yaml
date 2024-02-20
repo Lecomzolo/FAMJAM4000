@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: deltamath
+    name: qwertymath
     env: docker
     plan: free
